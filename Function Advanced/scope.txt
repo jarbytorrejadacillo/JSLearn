@@ -1,3 +1,4 @@
 SCOPE
 
 Variable "visibility"
+> The location where a variable is defined dictates [where we have access to that variable]
