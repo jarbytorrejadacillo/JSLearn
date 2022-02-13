@@ -1,0 +1,16 @@
+Functions In Detail
+
+--->>>>Important things you should know about functions
+
+
+GOALS
+
+}}}Understand Scoped
+..........
+
+}}}Write Higher Order Functions
+.........functions as a value in a javascript, how we can pass functions to other functions
+will take a look at some existing built-in functions and methods that expect you to pass a 
+functions as an argument.
+
+}}}Pass functions as callbacks

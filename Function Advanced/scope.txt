@@ -1,4 +1,14 @@
-SCOPE
+..................SCOPE
 
 Variable "visibility"
-> The location where a variable is defined dictates [where we have access to that variable]
+........ The location where a variable is defined dictates 
+[where we have access to that variable]
+
+.....the idea depending if where you defined a variable, other pieces of 
+your code may or may not have access to that value.
+
+.....in the variable scope is that window its the portion of your code
+where other values have access to it, or other functions or other pieces 
+of the code can access and manipulate that value
+
+.......so there's multiple pieces, different ways that scope behaves in javascript
