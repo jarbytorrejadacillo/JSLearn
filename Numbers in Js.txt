@@ -1,0 +1,7 @@
+Numbers in JS
+
+JavaScript has One Number type = 50
+Positive numbers! = 7
+Negative numbers! = -45
+Whole number (integers)! = 0.99
+Decimal numbers! 3.874
