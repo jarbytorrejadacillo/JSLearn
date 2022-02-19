@@ -1,0 +1,13 @@
+NaN
+Not a Number
+Special value in JS
+
+Nan is a numeric valuee that represents something that is not.... a number
+
+
+
+0/0 
+
+1 + NaN 
+
+NaN + 5

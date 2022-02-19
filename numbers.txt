@@ -1,0 +1,30 @@
+Numbers in JS
+
+JavaScript has One Number type = 50
+Positive numbers! = 7
+Negative numbers! = -45
+Whole number (integers)! = 0.99
+Decimal numbers! 3.874
+
+//Operations
+
+//Addition
+50 + 5 //55
+
+//Subtraction
+90 - 1 //89
+
+//Multiplication
+11111 * 7 //77777
+
+//Division
+400 / 25 //16
+
+//Modulo - Remainder will be output
+27 % 2 //1
+
+
+//Exponents
+2 ** 3
+
+PMDAS  - Higher Operations

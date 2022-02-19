@@ -1,0 +1,9 @@
+variables
+Variabless are like 'labeled jars'
+for a value in Javascript.
+
+We can store a value and give it a name, so that we can...
+
+- recall it
+- use it
+- or change it later on
